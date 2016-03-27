@@ -1,4 +1,4 @@
-# Python-scrapy
+# Scrapy-meizi
 
 ## 准备
 * [关于Scrapy](http://scrapy-chs.readthedocs.org/zh_CN/1.0/intro/overview.html)
