@@ -2,7 +2,8 @@
 
 * 在HTML提取信息,scrapy提供了XHTMl来获取想要的信息，一些细节可以在文档中获取,这里记录了如何利用 Chorme F12来获取范式，如下图：
 
-![](http://7xrl8j.com1.z0.glb.clouddn.com/xhtml.jpg)
+ ![](http://7xrl8j.com1.z0.glb.clouddn.com/xhtml.jpg)
+
 
 # Scrapy-douban
 
