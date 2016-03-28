@@ -1,5 +1,9 @@
 # Scrapy-meizi
 
+### 说明
+
+本来练手 Scrapy 去爬妹子图，google了一下，早就有人写出来了, **参考**[地址](https://segmentfault.com/a/1190000003870052),我的爬虫基本上都是 Copy的。走了一遍逻辑，分析了页面构造。
+
 ## 准备
 * [关于Scrapy](http://scrapy-chs.readthedocs.org/zh_CN/1.0/intro/overview.html)
 
@@ -24,9 +28,7 @@
 
 一般的写法也可以爬图片，这次为了体验一下 爬虫神奇，选择了 Scrapy 这个大杀器,好处自然多多的，起码不用担心被封，总之很多不必要的麻烦都不用去考虑了,最重要的是它为**爬虫**而生。
 
-### 说明
 
-本来练手 Scrapy 去爬妹子图，google了一下，早就有人写出来了, [地址在这里](https://segmentfault.com/a/1190000003870052),我的爬虫基本上都是 Copy的。但是走了一遍逻辑，分析了页面构造。
 
 ### 分析1
 
