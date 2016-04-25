@@ -23,7 +23,7 @@ class ImageDownloadPipeline(object):
             # 循环下载图片
             for image_url in item['image_urls']:
                 # 给图片命名
-                us = image_url.split('/')[8:]
+                us = image_url.split('/')[3:]
                 image_file_name = '_'.join(us)
                 file_path = '%s/%s' % (dir_path, image_file_name)
                 images.append(file_path)
